@@ -8,3 +8,4 @@ The plan is to use VS Code to write all content, and automatically push updates 
 
 Yeah this will work perfectly
 
+Time to test a new page
